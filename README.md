@@ -1,2 +1,4 @@
 # Automatic-Question-Generation-T2T-Generation
-Implementation of text - to - text generation in automatic question generation about Borobudur Temple. Quiz and Essay Question Generation.
+Quiz and Essay Question Generation.
+
+This project running locally without database and API calls. All the question that generated is saved into CSV file.
